@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=syedosama1&&theme=xcode)](https://github.com/syedosama1)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="syedosama1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedosama1&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedosama1&show_icons=true&locale=en&theme=tokyonight" alt="syedosama1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedosama1&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedosama1&&theme=tokyonight" alt="syedosama1" /></p>
